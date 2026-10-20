@@ -6,7 +6,7 @@ const snapshots = [
   { icon: GraduationCap, label: 'Degree', value: 'B.Tech CSE' },
   { icon: MapPin, label: 'University', value: "Siksha 'O' Anusandhan (ITER)" },
   { icon: Calendar, label: 'Graduation', value: '2027' },
-  { icon: Star, label: 'Year', value: '3rd Year' },
+  { icon: Star, label: 'Year', value: '4th Year' },
 ];
 
 const interests = [
