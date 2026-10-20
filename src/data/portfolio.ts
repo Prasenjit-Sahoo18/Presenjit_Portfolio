@@ -126,7 +126,7 @@ export const projects = [
       'Analytics & reporting',
       'Dark / Light theme',
     ],
-    liveUrl: 'https://cinepulse-9i9x.onrender.com',
+    liveUrl: 'https://cinepulse-7ajb.onrender.com',
     githubUrl: 'https://github.com/Prasenjit-Sahoo18/ShowPulse',
     accentColor: '#38BDF8',
   },
