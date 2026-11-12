@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Mail, Phone, Send, ExternalLink } from 'lucide-react';
+import { Mail, Phone, Send, ExternalLink, Download } from 'lucide-react';
 import { GithubIcon as Github, LinkedinIcon as Linkedin } from './GithubIcon';
 import { personalInfo } from '../data/portfolio';
 
@@ -125,6 +125,17 @@ export default function Contact() {
           >
             <Mail size={16} />
             Send Email
+          </a>
+          <a
+            href={personalInfo.resume}
+            download="Prasenjit-Sahoo-Resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn-outline"
+            aria-label="Download Resume"
+          >
+            <Download size={16} />
+            Download Resume
           </a>
           <a
             href={personalInfo.linkedin}

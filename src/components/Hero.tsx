@@ -135,7 +135,9 @@ export default function Hero() {
               </button>
               <a
                 href={personalInfo.resume}
-                download
+                download="Prasenjit-Sahoo-Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="btn-outline text-sm"
                 aria-label="Download resume PDF"
               >

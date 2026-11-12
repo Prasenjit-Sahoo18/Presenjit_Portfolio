@@ -6,11 +6,12 @@ export const personalInfo = {
   role: 'Computer Science Engineering Student',
   tagline: 'who builds digital experiences.',
   summary:
-    'Computer Science Engineering student passionate about building scalable web applications, intelligent platforms, and polished user experiences.',
+    'Computer Science Engineering student with experience in full-stack development, backend engineering, and problem solving. Skilled in building scalable web applications, AI-powered platforms, and responsive user interfaces using modern software development technologies.',
   email: 'mukeshsahoo902@gmail.com',
   phone: '+91 9861868159',
   github: 'https://github.com/Prasenjit-Sahoo18',
   linkedin: 'https://www.linkedin.com/in/prasenjit-sahoo18',
+  portfolio: 'https://prasenjit-portfolioo.netlify.app',
   resume: '/Prasenjit-Sahoo-Resume.pdf',
   profileImage: '/profile.jpg',
   roles: [
@@ -126,7 +127,7 @@ export const projects = [
       'Analytics & reporting',
       'Dark / Light theme',
     ],
-    liveUrl: 'https://cinepulse-7ajb.onrender.com',
+    liveUrl: 'https://cinepulse-1l25.onrender.com',
     githubUrl: 'https://github.com/Prasenjit-Sahoo18/ShowPulse',
     accentColor: '#38BDF8',
   },
